@@ -4,9 +4,6 @@
 
 ### Data Enthusiast | Problem Solver | Lifelong Learner  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
----
 
 ### 🚀 About Me  
 🔹 Pursuing Masters in Quantitative Management at Duke University 
