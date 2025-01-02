@@ -5,6 +5,8 @@
 ### Data Enthusiast | Problem Solver | Lifelong Learner  
 
 
+
+
 ### 🚀 About Me  
 🔹 Pursuing Masters in Quantitative Management at Duke University 
 🔹 Passionate about transforming data into insights  
@@ -39,6 +41,6 @@
 ---
 
 <div align="center">
-  <img src="path/to/image.png" alt="Creative Data Projects" width="400"/>
+  <img src="D:\Job Application\Profile\212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" alt="Creative Data Projects" width="400"/>
   <h3>Inventing the data use cases no one saw coming!</h3>
 </div>
