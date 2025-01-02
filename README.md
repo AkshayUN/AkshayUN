@@ -8,7 +8,7 @@
 
 
 ### 🚀 About Me  
-🔹 Pursuing Masters in Quantitative Management at Duke University 
+🔹 Pursuing Masters in Quantitative Management at Duke University             
 🔹 Passionate about transforming data into insights  
 🔹 Crafting solutions with Python, R, SQL, and Tableau  
 🔹 Currently exploring Analytics
