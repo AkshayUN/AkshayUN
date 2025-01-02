@@ -19,9 +19,10 @@
 ### 🛠️ Tech Toolbox  
 **Languages and Tools I Use:**  
 <div align="center">
-  <img src="path/to/image1.png" alt="Python Logo" width="100"/>
-  <img src="path/to/image2.png" alt="MySQL Logo" width="100"/>
-  <img src="path/to/image3.png" alt="Tableau Logo" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau Logo" width="100"/>
 </div>
 
 
